@@ -63,6 +63,9 @@
     margin-top: 30px;
     color: white;
     font-weight: bolder;
+    border: 1px solid black;
+    padding: 10px;
+    box-shadow: 5px 10px #393E46;
 }
 .yes {
     align-items: center;
