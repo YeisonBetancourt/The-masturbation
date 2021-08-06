@@ -24,6 +24,7 @@
 }
 .txt1 {
     margin-left: 10px;
+    cursor: pointer;
 }
 .txt2 {
     margin-left: 33px;
@@ -48,13 +49,13 @@
 }
 #title {
    margin-top: 40px;
-   font-size: 20px;
+   font-size: 25px;
 }
 #the {
-    font-size: 17px;
+    font-size: 23px;
 }
 #text {
-    font-size: 16px;
+    font-size: 18px;
 }
 #calltoaction {
     position: relative;
@@ -67,21 +68,41 @@
     padding: 10px;
     box-shadow: 5px 10px #393E46;
 }
+#vendiendo {
+    font-weight: bolder;
+    font-size: 18px;
+}
+#challenge {
+    margin-top: 30px;
+}
+.img_meme {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    width: 250px;
+    margin-top: 40px;
+    border: 2px solid;
+}
 .yes {
     align-items: center;
     width: 150px;    
     cursor: pointer;
-    position: relative;
-    margin-top: 50px;
+}
+#venta {
+    font-size: 50px;
+    text-align: center;
+    margin-top: 10px;
 }
 #yes-callto {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 50px;
 }
 #gratis {
     text-align: center;
-    font-size: 43px;
+    font-size: 50px;
     margin-top: 50px;
     cursor: pointer;
 }
