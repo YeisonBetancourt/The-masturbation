@@ -10,3 +10,8 @@ Si realmente quieres que todo tu potencial se haga notar, abre este link:  www.T
 
 ## Te espero se que seras el proximo.
 
+Creado por el maravilloso "MasturbationTeam"
+Curso practico, para jovenes, adultos y ancainos, PA TODAS LAS EDADES PAPIIII
+ 
+ Si en los primeros 15 dias no te gusta el curso, te devolvemos tu dinero... 
+    
