@@ -25,6 +25,7 @@
 .txt1 {
     margin-left: 10px;
     cursor: pointer;
+    color: aqua;
 }
 .txt2 {
     margin-left: 33px;
@@ -34,7 +35,7 @@
 #container {
     width: 70%;
     height: 40%;
-    border: 1px solid white;
+    border: 1px solid aqua;
     border-radius: 30px;
     padding: 1cm;
     margin: 0 auto;
