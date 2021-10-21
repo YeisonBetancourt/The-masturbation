@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-16T02:05:27.418Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4636.4 Safari/537.36" etag="-u6WG87f4V2SsZHA8HrC" version="15.2.7" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-10-21T01:45:05.210Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.9 Safari/537.36" etag="wbJHSwjvksjMv1CtTu1U" version="15.2.9" type="github" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -372,43 +372,43 @@
       <root>
         <mxCell id="Oo4Q97uJ5cRIA2TFyZE4-0" />
         <mxCell id="Oo4Q97uJ5cRIA2TFyZE4-1" parent="Oo4Q97uJ5cRIA2TFyZE4-0" />
-        <mxCell id="Oo4Q97uJ5cRIA2TFyZE4-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Oo4Q97uJ5cRIA2TFyZE4-1" source="Oo4Q97uJ5cRIA2TFyZE4-2" target="Oo4Q97uJ5cRIA2TFyZE4-3">
+        <mxCell id="Oo4Q97uJ5cRIA2TFyZE4-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="Oo4Q97uJ5cRIA2TFyZE4-1" source="Oo4Q97uJ5cRIA2TFyZE4-2" target="Oo4Q97uJ5cRIA2TFyZE4-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Oo4Q97uJ5cRIA2TFyZE4-2" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Oo4Q97uJ5cRIA2TFyZE4-1">
+        <mxCell id="Oo4Q97uJ5cRIA2TFyZE4-2" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;" parent="Oo4Q97uJ5cRIA2TFyZE4-1" vertex="1">
           <mxGeometry x="354" y="40" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Oo4Q97uJ5cRIA2TFyZE4-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Oo4Q97uJ5cRIA2TFyZE4-1" source="Oo4Q97uJ5cRIA2TFyZE4-3" target="Oo4Q97uJ5cRIA2TFyZE4-5">
+        <mxCell id="Oo4Q97uJ5cRIA2TFyZE4-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="Oo4Q97uJ5cRIA2TFyZE4-1" source="Oo4Q97uJ5cRIA2TFyZE4-3" target="Oo4Q97uJ5cRIA2TFyZE4-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Oo4Q97uJ5cRIA2TFyZE4-3" value="Num: 0&lt;br&gt;Count:50" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="Oo4Q97uJ5cRIA2TFyZE4-1">
+        <mxCell id="Oo4Q97uJ5cRIA2TFyZE4-3" value="Num: 0&lt;br&gt;Count:50" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="Oo4Q97uJ5cRIA2TFyZE4-1" vertex="1">
           <mxGeometry x="354" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Oo4Q97uJ5cRIA2TFyZE4-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Oo4Q97uJ5cRIA2TFyZE4-1" source="Oo4Q97uJ5cRIA2TFyZE4-5" target="Oo4Q97uJ5cRIA2TFyZE4-7">
+        <mxCell id="Oo4Q97uJ5cRIA2TFyZE4-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="Oo4Q97uJ5cRIA2TFyZE4-1" source="Oo4Q97uJ5cRIA2TFyZE4-5" target="Oo4Q97uJ5cRIA2TFyZE4-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Oo4Q97uJ5cRIA2TFyZE4-5" value="Num" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="Oo4Q97uJ5cRIA2TFyZE4-1">
+        <mxCell id="Oo4Q97uJ5cRIA2TFyZE4-5" value="Num" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="Oo4Q97uJ5cRIA2TFyZE4-1" vertex="1">
           <mxGeometry x="354" y="340" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Oo4Q97uJ5cRIA2TFyZE4-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Oo4Q97uJ5cRIA2TFyZE4-1" source="Oo4Q97uJ5cRIA2TFyZE4-7" target="Oo4Q97uJ5cRIA2TFyZE4-9">
+        <mxCell id="Oo4Q97uJ5cRIA2TFyZE4-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="Oo4Q97uJ5cRIA2TFyZE4-1" source="Oo4Q97uJ5cRIA2TFyZE4-7" target="Oo4Q97uJ5cRIA2TFyZE4-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Oo4Q97uJ5cRIA2TFyZE4-7" value="Num= num+2" style="whiteSpace=wrap;html=1;" vertex="1" parent="Oo4Q97uJ5cRIA2TFyZE4-1">
+        <mxCell id="Oo4Q97uJ5cRIA2TFyZE4-7" value="Num= num+2" style="whiteSpace=wrap;html=1;" parent="Oo4Q97uJ5cRIA2TFyZE4-1" vertex="1">
           <mxGeometry x="354" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Oo4Q97uJ5cRIA2TFyZE4-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Oo4Q97uJ5cRIA2TFyZE4-1" source="Oo4Q97uJ5cRIA2TFyZE4-9" target="Oo4Q97uJ5cRIA2TFyZE4-11">
+        <mxCell id="Oo4Q97uJ5cRIA2TFyZE4-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="Oo4Q97uJ5cRIA2TFyZE4-1" source="Oo4Q97uJ5cRIA2TFyZE4-9" target="Oo4Q97uJ5cRIA2TFyZE4-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Oo4Q97uJ5cRIA2TFyZE4-9" value="Count=count-1" style="whiteSpace=wrap;html=1;" vertex="1" parent="Oo4Q97uJ5cRIA2TFyZE4-1">
+        <mxCell id="Oo4Q97uJ5cRIA2TFyZE4-9" value="Count=count-1" style="whiteSpace=wrap;html=1;" parent="Oo4Q97uJ5cRIA2TFyZE4-1" vertex="1">
           <mxGeometry x="354" y="650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Oo4Q97uJ5cRIA2TFyZE4-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Oo4Q97uJ5cRIA2TFyZE4-1" source="Oo4Q97uJ5cRIA2TFyZE4-11" target="Oo4Q97uJ5cRIA2TFyZE4-13">
+        <mxCell id="Oo4Q97uJ5cRIA2TFyZE4-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="Oo4Q97uJ5cRIA2TFyZE4-1" source="Oo4Q97uJ5cRIA2TFyZE4-11" target="Oo4Q97uJ5cRIA2TFyZE4-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Oo4Q97uJ5cRIA2TFyZE4-11" value="Count=0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="Oo4Q97uJ5cRIA2TFyZE4-1">
+        <mxCell id="Oo4Q97uJ5cRIA2TFyZE4-11" value="Count=0" style="rhombus;whiteSpace=wrap;html=1;" parent="Oo4Q97uJ5cRIA2TFyZE4-1" vertex="1">
           <mxGeometry x="374" y="780" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Oo4Q97uJ5cRIA2TFyZE4-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Oo4Q97uJ5cRIA2TFyZE4-1" source="Oo4Q97uJ5cRIA2TFyZE4-13" target="Oo4Q97uJ5cRIA2TFyZE4-5">
+        <mxCell id="Oo4Q97uJ5cRIA2TFyZE4-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="Oo4Q97uJ5cRIA2TFyZE4-1" source="Oo4Q97uJ5cRIA2TFyZE4-13" target="Oo4Q97uJ5cRIA2TFyZE4-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="320" y="370" as="targetPoint" />
             <Array as="points">
@@ -417,23 +417,106 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Oo4Q97uJ5cRIA2TFyZE4-13" value="Fin" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Oo4Q97uJ5cRIA2TFyZE4-1">
+        <mxCell id="Oo4Q97uJ5cRIA2TFyZE4-13" value="Fin" style="ellipse;whiteSpace=wrap;html=1;" parent="Oo4Q97uJ5cRIA2TFyZE4-1" vertex="1">
           <mxGeometry x="354" y="950" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Oo4Q97uJ5cRIA2TFyZE4-15" value="Si" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Oo4Q97uJ5cRIA2TFyZE4-1">
+        <mxCell id="Oo4Q97uJ5cRIA2TFyZE4-15" value="Si" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="Oo4Q97uJ5cRIA2TFyZE4-1" vertex="1">
           <mxGeometry x="414" y="890" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Oo4Q97uJ5cRIA2TFyZE4-18" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Oo4Q97uJ5cRIA2TFyZE4-1">
+        <mxCell id="Oo4Q97uJ5cRIA2TFyZE4-18" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="Oo4Q97uJ5cRIA2TFyZE4-1" vertex="1">
           <mxGeometry x="250" y="950" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="bsLAu6K0Ct-ZxRmUyQf2" name="Page-4">
-    <mxGraphModel dx="853" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="PsH8C3lesTiGNIlvRASD-0" />
         <mxCell id="PsH8C3lesTiGNIlvRASD-1" parent="PsH8C3lesTiGNIlvRASD-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Bgci8JbIJU-xnOf_BWYb" name="La prehistoria ������">
+    <mxGraphModel dx="2563" dy="968" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="FJZ8HluCcTMLVMoPlVzB-0" />
+        <mxCell id="FJZ8HluCcTMLVMoPlVzB-1" parent="FJZ8HluCcTMLVMoPlVzB-0" />
+        <mxCell id="shIGaRTArXIhluq17ZkI-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="FJZ8HluCcTMLVMoPlVzB-1" source="shIGaRTArXIhluq17ZkI-0" target="shIGaRTArXIhluq17ZkI-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="shIGaRTArXIhluq17ZkI-0" value="La prehistoria" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="FJZ8HluCcTMLVMoPlVzB-1">
+          <mxGeometry x="350" y="410" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="shIGaRTArXIhluq17ZkI-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="FJZ8HluCcTMLVMoPlVzB-1" source="shIGaRTArXIhluq17ZkI-1" target="shIGaRTArXIhluq17ZkI-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="shIGaRTArXIhluq17ZkI-1" value="La prehistoria es el periodo de tiempo transcurrido desde la aparición de los primeros homínidos antecesores del homosapiens hasta que tenemos constancia de la existencia de documentos escritos algo que tuvo lugar por allá en el 3500AC&lt;br&gt;He aquí un pequeño resumen:" style="whiteSpace=wrap;html=1;" vertex="1" parent="FJZ8HluCcTMLVMoPlVzB-1">
+          <mxGeometry x="175" y="555" width="470" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="shIGaRTArXIhluq17ZkI-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="FJZ8HluCcTMLVMoPlVzB-1" source="shIGaRTArXIhluq17ZkI-3" target="shIGaRTArXIhluq17ZkI-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="890" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="410" y="880" />
+              <mxPoint x="-22" y="880" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="shIGaRTArXIhluq17ZkI-3" value="La prehistoria y&amp;nbsp; la edad de los metales&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="FJZ8HluCcTMLVMoPlVzB-1">
+          <mxGeometry x="350" y="777.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="shIGaRTArXIhluq17ZkI-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="FJZ8HluCcTMLVMoPlVzB-1" source="shIGaRTArXIhluq17ZkI-5" target="shIGaRTArXIhluq17ZkI-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="960" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="shIGaRTArXIhluq17ZkI-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="FJZ8HluCcTMLVMoPlVzB-1" source="shIGaRTArXIhluq17ZkI-5" target="shIGaRTArXIhluq17ZkI-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="shIGaRTArXIhluq17ZkI-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="FJZ8HluCcTMLVMoPlVzB-1" source="shIGaRTArXIhluq17ZkI-5" target="shIGaRTArXIhluq17ZkI-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="shIGaRTArXIhluq17ZkI-5" value="Mesolítico (10.000AC- 8.000AC)" style="whiteSpace=wrap;html=1;" vertex="1" parent="FJZ8HluCcTMLVMoPlVzB-1">
+          <mxGeometry x="350" y="917.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="shIGaRTArXIhluq17ZkI-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="FJZ8HluCcTMLVMoPlVzB-1" source="shIGaRTArXIhluq17ZkI-7" target="shIGaRTArXIhluq17ZkI-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="shIGaRTArXIhluq17ZkI-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="FJZ8HluCcTMLVMoPlVzB-1" source="shIGaRTArXIhluq17ZkI-7" target="shIGaRTArXIhluq17ZkI-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-22" y="1037" />
+              <mxPoint x="-22" y="1037" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="shIGaRTArXIhluq17ZkI-7" value="Paleolitico(&lt;span style=&quot;color: rgb(189 , 193 , 198) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px ; background-color: rgb(32 , 33 , 36)&quot;&gt;2.500.000 a.C. hasta los 8000 a. C)&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="FJZ8HluCcTMLVMoPlVzB-1">
+          <mxGeometry x="-102.5" y="917.5" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="shIGaRTArXIhluq17ZkI-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="FJZ8HluCcTMLVMoPlVzB-1" source="shIGaRTArXIhluq17ZkI-9" target="shIGaRTArXIhluq17ZkI-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="shIGaRTArXIhluq17ZkI-9" value="Neolitico (8.000AC- 5.000AC)" style="whiteSpace=wrap;html=1;" vertex="1" parent="FJZ8HluCcTMLVMoPlVzB-1">
+          <mxGeometry x="755" y="917.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="shIGaRTArXIhluq17ZkI-15" value="El hombre aprende a tallar pequeños utensilios de piedras, hueso y de hasta animal, también hay evidencias de que aprende a domesticar el fuego.&lt;br&gt;El hombre vivía al aire libre o en cavernas, se alimentaba de vegetales frutos y también cazaba animales, también se caracterizaba de gran manera por ser nómada&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="FJZ8HluCcTMLVMoPlVzB-1">
+          <mxGeometry x="-215" y="1057" width="390" height="103" as="geometry" />
+        </mxCell>
+        <mxCell id="shIGaRTArXIhluq17ZkI-17" value="Durante este periodo se da la finalización del ultimo periodo glaciar, paulatinamente comienza la llegada de un clima templado esto permitió la modificación de costumbres y hábitos en el hombre, también&amp;nbsp; hubo un aumento de la vegetación, lo que permitió el sedentarismo, la creación de pequeñas aldeas y demás.&amp;nbsp; &amp;nbsp; &amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="FJZ8HluCcTMLVMoPlVzB-1">
+          <mxGeometry x="240" y="1037" width="340" height="102.5" as="geometry" />
+        </mxCell>
+        <mxCell id="shIGaRTArXIhluq17ZkI-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="FJZ8HluCcTMLVMoPlVzB-1" source="shIGaRTArXIhluq17ZkI-19" target="shIGaRTArXIhluq17ZkI-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="shIGaRTArXIhluq17ZkI-19" value="Fueron capaces de producir alimento cultivando la tierra y domesticando los animales, construyeron aldeas y comenzaron a vivir como sedentarios. Los primeros poblados estuvieron ubicados en lugares fértiles cerca de los ríos, en sus principios sembraban vegetales como el maíz y legumbres como el garbanzo. La sociedad se jerarquiza llegan los estados y los gobiernos.&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="FJZ8HluCcTMLVMoPlVzB-1">
+          <mxGeometry x="635" y="1037" width="360" height="103" as="geometry" />
+        </mxCell>
+        <mxCell id="shIGaRTArXIhluq17ZkI-22" value="Al periodo de la prehistoria se le da fin con la llegada de la escritura, esta nace en Mesopotamia a partir de algún sistema contable&amp;nbsp; que servía para contar el ganado y las cantidades de grano, es la escritura cuneiforme, a base de pictogramas que grababan con un pulsar en tablas de arcilla que después cocían,&amp;nbsp; esto sucedió en el 3.500 AC.&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="FJZ8HluCcTMLVMoPlVzB-1">
+          <mxGeometry x="1270" y="1160" width="230" height="160" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
