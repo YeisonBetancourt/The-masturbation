@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-21T18:58:54.971Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.9 Safari/537.36" etag="iJoDtr0zUm4QUcOPMY8H" version="15.5.7" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-10-22T15:02:58.563Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4676.0 Safari/537.36" etag="amSlwhoGYBek7vLmgUSk" version="15.5.8" type="github" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -438,7 +438,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Bgci8JbIJU-xnOf_BWYb" name="La prehistoria ������">
-    <mxGraphModel dx="2563" dy="968" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2522" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="FJZ8HluCcTMLVMoPlVzB-0" />
         <mxCell id="FJZ8HluCcTMLVMoPlVzB-1" parent="FJZ8HluCcTMLVMoPlVzB-0" />
@@ -499,7 +499,7 @@
         <mxCell id="shIGaRTArXIhluq17ZkI-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="FJZ8HluCcTMLVMoPlVzB-1" source="shIGaRTArXIhluq17ZkI-9" target="shIGaRTArXIhluq17ZkI-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_TWUikb2skhS9eVJR1MJ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="FJZ8HluCcTMLVMoPlVzB-1" source="shIGaRTArXIhluq17ZkI-9" target="_TWUikb2skhS9eVJR1MJ-2">
+        <mxCell id="_TWUikb2skhS9eVJR1MJ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="FJZ8HluCcTMLVMoPlVzB-1" source="shIGaRTArXIhluq17ZkI-9" target="_TWUikb2skhS9eVJR1MJ-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="shIGaRTArXIhluq17ZkI-9" value="Neolitico (8.000AC- 5.000AC)" style="whiteSpace=wrap;html=1;" parent="FJZ8HluCcTMLVMoPlVzB-1" vertex="1">
@@ -522,17 +522,66 @@
         <mxCell id="shIGaRTArXIhluq17ZkI-22" value="Al periodo de la prehistoria se le da fin con la llegada de la escritura, esta nace en Mesopotamia a partir de algún sistema contable&amp;nbsp; que servía para contar el ganado y las cantidades de grano, es la escritura cuneiforme, a base de pictogramas que grababan con un pulsar en tablas de arcilla que después cocían,&amp;nbsp; esto sucedió en el 3.500 AC.&amp;nbsp;&lt;br&gt;A partir de allí muere la prehistoria y nace la historia&lt;br&gt;&amp;nbsp;" style="whiteSpace=wrap;html=1;" parent="FJZ8HluCcTMLVMoPlVzB-1" vertex="1">
           <mxGeometry x="1620" y="1039.5" width="390" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="_TWUikb2skhS9eVJR1MJ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="FJZ8HluCcTMLVMoPlVzB-1" source="_TWUikb2skhS9eVJR1MJ-2" target="_TWUikb2skhS9eVJR1MJ-4">
+        <mxCell id="_TWUikb2skhS9eVJR1MJ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="FJZ8HluCcTMLVMoPlVzB-1" source="_TWUikb2skhS9eVJR1MJ-2" target="_TWUikb2skhS9eVJR1MJ-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_TWUikb2skhS9eVJR1MJ-2" value="La edad de los metales (6.500AC - 3.500AC)" style="whiteSpace=wrap;html=1;" vertex="1" parent="FJZ8HluCcTMLVMoPlVzB-1">
+        <mxCell id="_TWUikb2skhS9eVJR1MJ-2" value="La edad de los metales (6.500AC - 3.500AC)" style="whiteSpace=wrap;html=1;" parent="FJZ8HluCcTMLVMoPlVzB-1" vertex="1">
           <mxGeometry x="1246.25" y="917.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_TWUikb2skhS9eVJR1MJ-4" value="Los hombres comienzan a utilizar los diferentes metales para sus herramientas y demás, el primer metal que se utilizo fue el cobre, luego el bronce y por ultimo el hierro. A este periodo se le llamo&amp;nbsp; &quot;La metalurgia&quot; con la llegada de la metalurgia nace la artesanía y con ello el comercio. El aumento de la producción agraria y la aparición de la artesanía provocaron el &quot;trueque&quot;, es aquí donde el comercio crea&amp;nbsp;un gran intercambio comercial y cultural entre las ciudades&amp;nbsp;que llevo a que las aldeas se hicieran ahora ciudades cada vez&amp;nbsp; mas y mas grandes. Además esto creo la aparición de las primeras desigualdades, es decir personas ricas y personas pobres, también aparecieron guerreros para proteger las ciudades y entre ellos surgieron los primeros reyes.&lt;br&gt;La prehistoria termina aquí cuando alguno de esos reyes fundaron grandes reinos cuya administración necesitaron la invención de algo que cambiaria el rumbo de nuestra especie, la escritura aquel invento da paso a la historia.&amp;nbsp;&lt;br&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;span&gt;	&lt;/span&gt;&amp;nbsp; &amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="FJZ8HluCcTMLVMoPlVzB-1">
+        <mxCell id="_TWUikb2skhS9eVJR1MJ-4" value="Los hombres comienzan a utilizar los diferentes metales para sus herramientas y demás, el primer metal que se utilizo fue el cobre, luego el bronce y por ultimo el hierro. A este periodo se le llamo&amp;nbsp; &quot;La metalurgia&quot; con la llegada de la metalurgia nace la artesanía y con ello el comercio. El aumento de la producción agraria y la aparición de la artesanía provocaron el &quot;trueque&quot;, es aquí donde el comercio crea&amp;nbsp;un gran intercambio comercial y cultural entre las ciudades&amp;nbsp;que llevo a que las aldeas se hicieran ahora ciudades cada vez&amp;nbsp; mas y mas grandes. Además esto creo la aparición de las primeras desigualdades, es decir personas ricas y personas pobres, también aparecieron guerreros para proteger las ciudades y entre ellos surgieron los primeros reyes.&lt;br&gt;La prehistoria termina aquí cuando alguno de esos reyes fundaron grandes reinos cuya administración necesitaron la invención de algo que cambiaria el rumbo de nuestra especie, la escritura aquel invento da paso a la historia.&amp;nbsp;&lt;br&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;span&gt; &lt;/span&gt;&amp;nbsp; &amp;nbsp;" style="whiteSpace=wrap;html=1;" parent="FJZ8HluCcTMLVMoPlVzB-1" vertex="1">
           <mxGeometry x="1039.87" y="1040" width="532.75" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="_TWUikb2skhS9eVJR1MJ-9" value="Pero y entonces cuando y como lelgo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="FJZ8HluCcTMLVMoPlVzB-1">
-          <mxGeometry x="110" y="1440" width="560" height="190" as="geometry" />
+        <mxCell id="n2L3o6FUBTVpS6GjX7uH-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;" edge="1" parent="FJZ8HluCcTMLVMoPlVzB-1" source="_TWUikb2skhS9eVJR1MJ-9" target="n2L3o6FUBTVpS6GjX7uH-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_TWUikb2skhS9eVJR1MJ-9" value="&lt;font style=&quot;font-size: 19px&quot;&gt;Pero y entonces cuando y como llego el hombre a América? ������&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="FJZ8HluCcTMLVMoPlVzB-1" vertex="1">
+          <mxGeometry x="-302.5" y="1520" width="560" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="n2L3o6FUBTVpS6GjX7uH-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="FJZ8HluCcTMLVMoPlVzB-1" source="n2L3o6FUBTVpS6GjX7uH-0" target="n2L3o6FUBTVpS6GjX7uH-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-15.333333333333485" y="2090" as="sourcePoint" />
+            <mxPoint x="-153" y="2235" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-23" y="2235" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n2L3o6FUBTVpS6GjX7uH-0" value="&lt;div&gt;Los primeros pobladores llegaron&lt;/div&gt;&lt;div&gt;probablemente hace (14.000 – 15.000 a de C). provenientes de dos zonas&lt;/div&gt;&lt;div&gt;distintas:&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="FJZ8HluCcTMLVMoPlVzB-1">
+          <mxGeometry x="-131.25" y="1860" width="217.5" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="n2L3o6FUBTVpS6GjX7uH-4" value="" style="endArrow=classic;html=1;rounded=0;fontSize=19;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="FJZ8HluCcTMLVMoPlVzB-1" source="n2L3o6FUBTVpS6GjX7uH-0">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-15.5" y="2090" as="sourcePoint" />
+            <mxPoint x="150" y="2235" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-22" y="2235" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n2L3o6FUBTVpS6GjX7uH-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="FJZ8HluCcTMLVMoPlVzB-1" source="n2L3o6FUBTVpS6GjX7uH-5" target="n2L3o6FUBTVpS6GjX7uH-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-380" y="2520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-550" y="2520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n2L3o6FUBTVpS6GjX7uH-5" value="&lt;b&gt;Asia:&lt;/b&gt;&amp;nbsp;&lt;span&gt;Antes de los últimos deshielos ocurridos en el periodo del mesolitico, el nivel del mar se encontraba a unos&lt;/span&gt;&lt;div&gt;100 metros por debajo del nivel actual. Los hombres asiáticos podrían haber&lt;/div&gt;&lt;div&gt;llegado a América atravesando el Estrecho de Bering para luego ir&lt;/div&gt;&lt;div&gt;desplazándose hacia el sur.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="FJZ8HluCcTMLVMoPlVzB-1">
+          <mxGeometry x="-867.5" y="2150" width="670" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="n2L3o6FUBTVpS6GjX7uH-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="FJZ8HluCcTMLVMoPlVzB-1" source="n2L3o6FUBTVpS6GjX7uH-6" target="n2L3o6FUBTVpS6GjX7uH-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="2520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="650" y="2520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n2L3o6FUBTVpS6GjX7uH-6" value="&lt;b&gt;Oceania&lt;/b&gt;: Existe una teoría que indica que algunos habitantes de las islas de Oceanía habrían llegado a través del mar a la parte sur del continente americano. Esta probabilidad surge de la similitud de diversos elementos hallados en varias zonas de ambos continentes. Se han encontrado restos en todas las áreas del continente americano, desde Alaska en el extremo norte, hasta Tierra del Fuego en el extremo sur de América. La evolución de los pobladores americanos fue más lenta que la de los europeos y asiáticos, aunque llegaron a desarrollar la agricultura, ganadería y la metalurgia. Algunos pueblos vivieron formando tribus nómadas y rudimentarias hasta la llegada de los europeos en el siglo XV, y otros llegaron a organizarse en forma de complejos estados." style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="FJZ8HluCcTMLVMoPlVzB-1">
+          <mxGeometry x="152.5" y="2120" width="850" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="n2L3o6FUBTVpS6GjX7uH-13" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 19px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;La evolución de los pobladores americanos fue más lenta que la de los europeos y asiáticos, aunque llegaron a desarrollar la agricultura, ganadería y la metalurgia. Algunos pueblos vivieron formando tribus nómadas y rudimentarias hasta la llegada de los europeos en el siglo XV, y otros llegaron a organizarse en forma de complejos estados.&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="FJZ8HluCcTMLVMoPlVzB-1">
+          <mxGeometry x="-327.5" y="2440" width="610" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
